@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s /bon/ls _ls_
